@@ -5,7 +5,7 @@
 
 # INSTALLATION ⬇️
 ```
-git clone https://github.com/BadBoy9399/Ip-Info
+git clone https://github.com/H4C-K3R/Ip-Info
 cd Ip-Info
 python ip.py
 ```
