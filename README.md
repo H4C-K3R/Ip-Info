@@ -10,5 +10,5 @@ cd Ip-Info
 python ip.py
 ```
 
-# ©️ STLP 
+# ©️ Ip Tracking 
 * This Tool only Educational Our team is not responsible if it is used by someone for unethical activities.
